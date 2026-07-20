@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+joblib
+pandas
+numpy==1.26.4
+PySastrawi
+h5py
+
+tensorflow==2.20.0
+keras==3.13.2
